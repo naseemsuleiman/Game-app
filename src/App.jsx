@@ -8,7 +8,7 @@ import Code from "./Components/Code";
 import Walking from "./Components/Walking";
 import Metal from "./Components/Metal";
 import Call from "./Components/Call";
-import Mine from "./Components/mine";
+
 import Among from "./Components/Among";
 import Adventure from "./Components/Adventure";
 import Space from "./Components/space";
@@ -18,6 +18,7 @@ import Racing from "./Components/Racing";
 import Asphat from "./Components/Asphat";
 import Nitro from "./Components/Nitro";
 import City from "./Components/City";
+import Mine from "./Components/mine";
 
 
 function App() {
