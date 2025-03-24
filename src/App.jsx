@@ -11,7 +11,7 @@ import Call from "./Components/Call";
 
 import Among from "./Components/Among";
 import Adventure from "./Components/Adventure";
-import Space from "./Components/space";
+
 import Operation from "./Components/Operation";
 import Destiny from "./Components/Destiny";
 import Racing from "./Components/Racing";
@@ -19,6 +19,7 @@ import Asphat from "./Components/Asphat";
 import Nitro from "./Components/Nitro";
 import City from "./Components/City";
 import Mines from "./Components/Mines";
+import Spaces from "./Components/Spaces";
 
 
 
@@ -38,7 +39,7 @@ function App() {
         <Route path='among' element={<Among/>}/>
         </Route>
         <Route path='adventure' element={<Adventure/>}>
-        <Route path='space' element={<Space/>}/>
+        <Route path='spaces' element={<Spaces/>}/>
         <Route path='operation' element={<Operation/>}/>
         <Route path='destiny' element={<Destiny/>}/>
         </Route>
