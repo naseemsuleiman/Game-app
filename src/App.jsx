@@ -18,7 +18,8 @@ import Racing from "./Components/Racing";
 import Asphat from "./Components/Asphat";
 import Nitro from "./Components/Nitro";
 import City from "./Components/City";
-import Mine from "./Components/mine";
+import Mines from "./Components/Mines";
+
 
 
 function App() {
@@ -33,7 +34,7 @@ function App() {
         <Route path='walking' element={<Walking/>}/>
         <Route path='metal' element={<Metal/>}/>
         <Route path='call' element={<Call/>}/>
-        <Route path='mine' element={<Mine/>}/>
+        <Route path='mines' element={<Mines/>}/>
         <Route path='among' element={<Among/>}/>
         </Route>
         <Route path='adventure' element={<Adventure/>}>

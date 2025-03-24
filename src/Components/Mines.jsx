@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-function Mine() {
+function Mines() {
   return (
     <div className="p-4 md:p-8 bg-gradient-to-b from-gray-900 to-gray-800 text-white min-h-screen">
     <h1 className="text-4xl md:text-6xl font-extrabold mb-6 text-center text-green-500 drop-shadow-lg">
@@ -61,4 +61,4 @@ function Mine() {
   )
 }
 
-export default Mine
+export default Mines
