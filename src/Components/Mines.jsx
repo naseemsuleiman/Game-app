@@ -24,7 +24,7 @@ function Mines() {
     <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
       <div className="bg-gray-800 rounded-2xl shadow-xl overflow-hidden">
         <div className="p-6">
-          <h2 className="text-2xl font-semibold mb-2 text-green-400">⛏️ Endless Exploration</h2>
+          <h2 className="text-2xl font-semibold mb-2 text-green-400"> Endless Exploration</h2>
           <p className="text-sm text-gray-400">
             Travel through diverse biomes, from lush forests to deep caves and vast oceans.
           </p>
@@ -33,7 +33,7 @@ function Mines() {
 
       <div className="bg-gray-800 rounded-2xl shadow-xl overflow-hidden">
         <div className="p-6">
-          <h2 className="text-2xl font-semibold mb-2 text-green-400">🏗️ Creative & Survival Modes</h2>
+          <h2 className="text-2xl font-semibold mb-2 text-green-400"> Creative & Survival Modes</h2>
           <p className="text-sm text-gray-400">
             Choose between infinite creativity in Creative mode or survival challenges in Survival mode.
           </p>
@@ -42,7 +42,7 @@ function Mines() {
 
       <div className="bg-gray-800 rounded-2xl shadow-xl overflow-hidden">
         <div className="p-6">
-          <h2 className="text-2xl font-semibold mb-2 text-green-400">👾 Multiplayer Fun</h2>
+          <h2 className="text-2xl font-semibold mb-2 text-green-400"> Multiplayer Fun</h2>
           <p className="text-sm text-gray-400">
             Join friends online to build, battle, and explore in shared worlds.
           </p>
