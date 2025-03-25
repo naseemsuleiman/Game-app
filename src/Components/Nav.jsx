@@ -13,7 +13,7 @@ function Nav() {
       alignItems: 'center', 
       flexWrap: 'wrap' 
     }}> 
-      <h1 style={{ margin: 5, fontSize:'1.5rem'}}>Play Plus</h1> 
+      <h1 style={{ margin: 5, fontSize:'1.5rem'}}>Play Pulse</h1> 
       <ul style={{ listStyle: 'none', display: 'flex', gap: '50%', margin: 0, padding: 0,marginRight:'50%', fontWeight:'10%' }}> 
         <li><Link to="/" style={{ color: 'white', textDecoration: 'none' 
 }}>Home</Link></li> 
