@@ -12,7 +12,7 @@ function Adventure() {
       {isOnActionPage && (
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <Link
-            to="space"
+            to="spaces"
             className="bg-gray-800 rounded-2xl shadow-xl p-6 transform transition-transform hover:scale-105 hover:shadow-2xl"
           >
             <img

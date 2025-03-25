@@ -8,7 +8,7 @@ function Among() {
       Among Us
     </h1>
 
-    <p className="text-lg md:text-xl text-center text-gray-300 mb-6">
+    <p className="text-lg md:text-xl text-center text-white-300 mb-6">
       Play with 4-15 players online or via local WiFi as you attempt to prepare your spaceship for departure. 
       But beware—one or more random players among the Crew are Impostors bent on sabotage!
     </p>

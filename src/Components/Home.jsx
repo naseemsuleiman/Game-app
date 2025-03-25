@@ -47,7 +47,7 @@ function Home() {
           </Link>
 
           <Link
-            to="explore/action/mine"
+            to="explore/action/mines"
             className="bg-gray-800 rounded-2xl shadow-xl p-6 transform transition-transform hover:scale-105 hover:shadow-2xl"
           >
             <img
