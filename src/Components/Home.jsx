@@ -59,7 +59,7 @@ function Home() {
             <p className="text-sm text-gray-300">
               Build whatever you can imagine in a unique, procedurally generated world.
             </p>
-            <Link to="/explore/action/mine">
+            <Link to="/explore/action/mines">
               <button className="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-full mt-4">
                 Learn More
               </button>
